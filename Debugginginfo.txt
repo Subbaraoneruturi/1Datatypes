@@ -1,0 +1,18 @@
+﻿
+
+Debugging Steps         ( -----> Compulsory it should be in Debug mode)
+
+F9                        -----> to put break point or remove break point
+F10                       -----> to debug step by step 
+F11                       -----> to debug step into the method
+shift + F11               -----> to step out from the inside method
+ctrl + shift+ f9          -----> to delete all the break points at a time
+
+
+
+Some Shortcut Commands
+
+ctrl + G                  -----> to go to the particular Line 
+ctrl + F                  -----> to find out particular names
+ctrl + end                -----> to to the last line
+ctrl + home               -----> to go to the first line
